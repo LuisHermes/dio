@@ -19,5 +19,5 @@ git init
 ## 🔍 Referencias 
 [Digital Innovation One]()
 
-## Curso Dio | Java + Agular
+## Curso Dio | Java + Angular
 - Full Stack developer
